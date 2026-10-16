@@ -1,0 +1,183 @@
+row,survey_year,statistic,fed_cell,fed_thousands,ours_thousands,abs_diff_thousands,rel_diff
+All families,1989,median,'Table 4'!B6,118.74,118.741,0.001,8.075627421261074e-06
+All families,1989,mean,'Table 4'!C6,477.81,477.81,0.0,4.3421384888609525e-07
+All families,1992,median,'Table 4'!D6,112.7,112.696,0.004,3.823167701866599e-05
+All families,1992,mean,'Table 4'!E6,424.18,424.183,0.003,7.889052218047774e-06
+All families,1995,median,'Table 4'!F6,122.43,122.426,0.004,3.623368455454449e-05
+All families,1995,mean,'Table 4'!G6,451.41,451.413,0.003,6.080174088111901e-06
+All families,1998,median,'Table 4'!H6,143.07,143.071,0.001,9.610680086642254e-06
+All families,1998,mean,'Table 4'!I6,565.98,565.98,0.0,6.683985260624851e-07
+All families,2001,median,'Table 4'!J6,158.91,158.913,0.003,1.7140456862403596e-05
+All families,2001,mean,'Table 4'!K6,728.35,728.353,0.003,4.056170297427094e-06
+All families,2004,median,'Table 4'!L6,160.09,160.092,0.002,1.1775251421136504e-05
+All families,2004,mean,'Table 4'!M6,772.32,772.318,0.002,2.0433845057738394e-06
+All families,2007,median,'Table 4'!N6,189.49,189.493,0.003,1.4806902738786632e-05
+All families,2007,mean,'Table 4'!O6,871.95,871.954,0.004,4.2408517711465875e-06
+All families,2010,median,'Table 4'!P6,115.09,115.091,0.001,1.2583108871237688e-05
+All families,2010,mean,'Table 4'!Q6,739.5,739.501,0.001,1.6283460922519636e-06
+All families,2013,median,'Table 4'!R6,113.39,113.387,0.003,2.6216244818745196e-05
+All families,2013,mean,'Table 4'!S6,736.07,736.07,0.0,4.3925534248999926e-07
+All families,2016,median,'Table 4'!T6,131.32,131.32,0.0,3.32675906173672e-06
+All families,2016,mean,'Table 4'!U6,930.68,930.676,0.004,4.107369255136914e-06
+All families,2019,median,'Table 4'!V6,154.47,154.466,0.004,2.6769599275026742e-05
+All families,2019,mean,'Table 4'!W6,947.41,947.407,0.003,2.780077171275733e-06
+All families,2022,median,'Table 4'!X6,210.89,210.887,0.003,1.55387642847063e-05
+All families,2022,mean,'Table 4'!Y6,1159.45,1159.447,0.003,2.2417353059776998e-06
+All families,2025,median,'Table 4'!Z6,216.1,216.1,0.0,0.0
+All families,2025,mean,'Table 4'!AA6,1232.0,1231.997,0.003,2.2210200863913667e-06
+Single with child(ren),1989,median,'Table 4'!B26,17.66,17.662,0.002,0.00012888335220826184
+Single with child(ren),1989,mean,'Table 4'!C26,160.24,160.244,0.004,2.3413625556002656e-05
+Single with child(ren),1992,median,'Table 4'!D26,19.23,19.229,0.001,7.48514820593825e-05
+Single with child(ren),1992,mean,'Table 4'!E26,120.31,120.308,0.002,1.3917959393994998e-05
+Single with child(ren),1995,median,'Table 4'!F26,25.42,25.417,0.003,0.00011518127458708708
+Single with child(ren),1995,mean,'Table 4'!G26,154.13,154.129,0.001,3.503960078818423e-06
+Single with child(ren),1998,median,'Table 4'!H26,32.13,32.126,0.004,0.00011801017740434338
+Single with child(ren),1998,mean,'Table 4'!I26,209.31,209.308,0.002,8.048942071572617e-06
+Single with child(ren),2001,median,'Table 4'!J26,23.89,23.89,0.0,1.6013394725762973e-06
+Single with child(ren),2001,mean,'Table 4'!K26,174.45,174.448,0.002,1.2498855094655893e-05
+Single with child(ren),2004,median,'Table 4'!L26,35.42,35.423,0.003,8.819531338217655e-05
+Single with child(ren),2004,mean,'Table 4'!M26,224.71,224.708,0.002,9.615983514116504e-06
+Single with child(ren),2007,median,'Table 4'!N26,38.73,38.729,0.001,3.6897469661795846e-05
+Single with child(ren),2007,mean,'Table 4'!O26,279.24,279.235,0.005,1.7031080246302933e-05
+Single with child(ren),2010,median,'Table 4'!P26,23.39,23.392,0.002,8.393206498503098e-05
+Single with child(ren),2010,mean,'Table 4'!Q26,214.02,214.016,0.004,2.0517892380109278e-05
+Single with child(ren),2013,median,'Table 4'!R26,19.72,19.724,0.004,0.00021947758620699802
+Single with child(ren),2013,mean,'Table 4'!S26,179.88,179.885,0.005,2.584926794093117e-05
+Single with child(ren),2016,median,'Table 4'!T26,29.16,29.155,0.005,0.00016702157064474722
+Single with child(ren),2016,mean,'Table 4'!U26,229.14,229.137,0.003,1.2622307813670923e-05
+Single with child(ren),2019,median,'Table 4'!V26,46.57,46.571,0.001,1.3879278505418702e-05
+Single with child(ren),2019,mean,'Table 4'!W26,361.08,361.076,0.004,1.1714600525271661e-05
+Single with child(ren),2022,median,'Table 4'!X26,55.54,55.54,0.0,5.3077061576899865e-06
+Single with child(ren),2022,mean,'Table 4'!Y26,300.0,300.001,0.001,3.975881092704488e-06
+Single with child(ren),2025,median,'Table 4'!Z26,45.9,45.9,0.0,0.0
+Single with child(ren),2025,mean,'Table 4'!AA26,299.91,299.913,0.003,8.876948049294825e-06
+Couple with child(ren),1989,median,'Table 4'!B29,157.95,157.954,0.004,2.364659702449253e-05
+Couple with child(ren),1989,mean,'Table 4'!C29,513.27,513.275,0.005,9.710414166089279e-06
+Couple with child(ren),1992,median,'Table 4'!D29,136.73,136.734,0.004,2.6764865062655467e-05
+Couple with child(ren),1992,mean,'Table 4'!E29,468.71,468.714,0.004,9.123873990216729e-06
+Couple with child(ren),1995,median,'Table 4'!F29,139.58,139.582,0.002,1.4956082533215873e-05
+Couple with child(ren),1995,mean,'Table 4'!G29,459.26,459.257,0.003,5.524276167241637e-06
+Couple with child(ren),1998,median,'Table 4'!H29,173.7,173.701,0.001,5.8769717905345356e-06
+Couple with child(ren),1998,mean,'Table 4'!I29,600.15,600.155,0.005,7.92480507520212e-06
+Couple with child(ren),2001,median,'Table 4'!J29,208.95,208.946,0.004,1.8033835845763654e-05
+Couple with child(ren),2001,mean,'Table 4'!K29,808.94,808.943,0.003,4.210262316587105e-06
+Couple with child(ren),2004,median,'Table 4'!L29,210.08,210.08,0.0,1.1451351866753612e-06
+Couple with child(ren),2004,mean,'Table 4'!M29,868.46,868.462,0.002,2.2575182627635582e-06
+Couple with child(ren),2007,median,'Table 4'!N29,220.66,220.657,0.003,1.2122496147788349e-05
+Couple with child(ren),2007,mean,'Table 4'!O29,938.71,938.707,0.003,3.577778512062408e-06
+Couple with child(ren),2010,median,'Table 4'!P29,129.14,129.142,0.002,1.2180811522401836e-05
+Couple with child(ren),2010,mean,'Table 4'!Q29,824.46,824.46,0.0,5.365261403220459e-07
+Couple with child(ren),2013,median,'Table 4'!R29,129.55,129.552,0.002,1.8062678502440966e-05
+Couple with child(ren),2013,mean,'Table 4'!S29,817.94,817.942,0.002,1.9026746193456616e-06
+Couple with child(ren),2016,median,'Table 4'!T29,158.33,158.329,0.001,9.149876839675598e-06
+Couple with child(ren),2016,mean,'Table 4'!U29,971.18,971.181,0.001,9.986322066462353e-07
+Couple with child(ren),2019,median,'Table 4'!V29,210.97,210.97,0.0,1.3184339004860602e-06
+Couple with child(ren),2019,mean,'Table 4'!W29,1115.36,1115.355,0.005,4.217479107115012e-06
+Couple with child(ren),2022,median,'Table 4'!X29,274.27,274.273,0.003,1.138137601640315e-05
+Couple with child(ren),2022,mean,'Table 4'!Y29,1269.18,1269.176,0.004,3.1116395131641445e-06
+Couple with child(ren),2025,median,'Table 4'!Z29,333.6,333.6,0.0,0.0
+Couple with child(ren),2025,mean,'Table 4'!AA29,1509.03,1509.03,0.0,3.313022283142185e-08
+No high school diploma,1989,median,'Table 4'!B33,61.01,61.011,0.001,8.981232584838442e-06
+No high school diploma,1989,mean,'Table 4'!C33,209.95,209.947,0.003,1.5246422163835918e-05
+No high school diploma,1992,median,'Table 4'!D33,42.4,42.403,0.003,6.141903301889651e-05
+No high school diploma,1992,mean,'Table 4'!E33,158.92,158.916,0.004,2.715764243214721e-05
+No high school diploma,1995,median,'Table 4'!F33,48.72,48.716,0.004,8.097612889991736e-05
+No high school diploma,1995,mean,'Table 4'!G33,177.64,177.64,0.0,6.489987277507178e-07
+No high school diploma,1998,median,'Table 4'!H33,41.9,41.904,0.004,8.949880668266575e-05
+No high school diploma,1998,mean,'Table 4'!I33,157.42,157.416,0.004,2.4640227169823843e-05
+No high school diploma,2001,median,'Table 4'!J33,46.55,46.553,0.003,5.580133190127938e-05
+No high school diploma,2001,mean,'Table 4'!K33,193.04,193.042,0.002,1.0768189728501912e-05
+No high school diploma,2004,median,'Table 4'!L33,35.42,35.423,0.003,8.819531338217655e-05
+No high school diploma,2004,mean,'Table 4'!M33,234.17,234.171,0.001,3.013608929209851e-06
+No high school diploma,2007,median,'Table 4'!N33,51.84,51.836,0.004,6.825347222234245e-05
+No high school diploma,2007,mean,'Table 4'!O33,223.78,223.779,0.001,3.5907326826759517e-06
+No high school diploma,2010,median,'Table 4'!P33,24.36,24.364,0.004,0.00014426752873564227
+No high school diploma,2010,mean,'Table 4'!Q33,165.28,165.283,0.003,2.1118578995531336e-05
+No high school diploma,2013,median,'Table 4'!R33,24.17,24.168,0.002,8.797004551105831e-05
+No high school diploma,2013,mean,'Table 4'!S33,150.79,150.793,0.003,2.155580959592494e-05
+No high school diploma,2016,median,'Table 4'!T33,30.8,30.802,0.002,6.021318181825397e-05
+No high school diploma,2016,mean,'Table 4'!U33,212.28,212.281,0.001,5.467650089719188e-06
+No high school diploma,2019,median,'Table 4'!V33,26.36,26.362,0.002,6.451676783008627e-05
+No high school diploma,2019,mean,'Table 4'!W33,174.53,174.528,0.002,1.0978839738781041e-05
+No high school diploma,2022,median,'Table 4'!X33,41.64,41.641,0.001,2.6397142170828287e-05
+No high school diploma,2022,mean,'Table 4'!Y33,192.2,192.202,0.002,1.1460157941254268e-05
+No high school diploma,2025,median,'Table 4'!Z33,18.7,18.7,0.0,0.0
+No high school diploma,2025,mean,'Table 4'!AA33,293.88,293.878,0.002,6.927682211201464e-06
+High school diploma,1989,median,'Table 4'!B34,92.6,92.601,0.001,8.53462203022639e-06
+High school diploma,1989,mean,'Table 4'!C34,284.1,284.104,0.004,1.5137557512320171e-05
+High school diploma,1992,median,'Table 4'!D34,87.07,87.073,0.003,3.1322763293958546e-05
+High school diploma,1992,mean,'Table 4'!E34,253.4,253.404,0.004,1.6323678934232445e-05
+High school diploma,1995,median,'Table 4'!F34,109.57,109.569,0.001,1.1302272519827327e-05
+High school diploma,1995,mean,'Table 4'!G34,282.29,282.287,0.003,9.241670433553658e-06
+High school diploma,1998,median,'Table 4'!H34,108.05,108.052,0.002,1.677464136973413e-05
+High school diploma,1998,mean,'Table 4'!I34,314.75,314.746,0.004,1.2061865639075754e-05
+High school diploma,2001,median,'Table 4'!J34,106.26,106.261,0.001,1.133700357620001e-05
+High school diploma,2001,mean,'Table 4'!K34,331.99,331.993,0.003,8.462264981965126e-06
+High school diploma,2004,median,'Table 4'!L34,117.62,117.619,0.001,1.2516323754459707e-05
+High school diploma,2004,mean,'Table 4'!M34,339.33,339.326,0.004,1.051772068551936e-05
+High school diploma,2007,median,'Table 4'!N34,126.07,126.068,0.002,1.9609740620287956e-05
+High school diploma,2007,mean,'Table 4'!O34,394.3,394.304,0.004,1.0888726622629416e-05
+High school diploma,2010,median,'Table 4'!P34,84.75,84.749,0.001,9.943327433580544e-06
+High school diploma,2010,mean,'Table 4'!Q34,323.42,323.423,0.003,8.287431618310114e-06
+High school diploma,2013,median,'Table 4'!R34,72.99,72.991,0.001,1.5860391834444777e-05
+High school diploma,2013,mean,'Table 4'!S34,278.23,278.227,0.003,1.03888878716973e-05
+High school diploma,2016,median,'Table 4'!T34,90.43,90.435,0.005,5.410701094759068e-05
+High school diploma,2016,mean,'Table 4'!U34,336.7,336.705,0.005,1.4287022358527416e-05
+High school diploma,2019,median,'Table 4'!V34,93.74,93.738,0.002,2.625268828661322e-05
+High school diploma,2019,mean,'Table 4'!W34,386.41,386.405,0.005,1.2914149778372703e-05
+High school diploma,2022,median,'Table 4'!X34,117.1,117.098,0.002,1.2879846285216816e-05
+High school diploma,2022,mean,'Table 4'!Y34,452.28,452.278,0.002,4.801235246778927e-06
+High school diploma,2025,median,'Table 4'!Z34,106.71,106.71,0.0,0.0
+High school diploma,2025,mean,'Table 4'!AA34,470.03,470.028,0.002,4.200978081932661e-06
+Some college,1989,median,'Table 4'!B35,117.73,117.732,0.002,1.4320818822717938e-05
+Some college,1989,mean,'Table 4'!C35,466.33,466.328,0.002,3.87848139012536e-06
+Some college,1992,median,'Table 4'!D35,130.38,130.382,0.002,1.7940021475638536e-05
+Some college,1992,mean,'Table 4'!E35,382.09,382.093,0.003,8.202383893312284e-06
+Some college,1995,median,'Table 4'!F35,106.43,106.434,0.004,3.748369820540243e-05
+Some college,1995,mean,'Table 4'!G35,386.81,386.805,0.005,1.1738415469487432e-05
+Some college,1998,median,'Table 4'!H35,151.95,151.951,0.001,6.444027640816865e-06
+Some college,1998,mean,'Table 4'!I35,449.23,449.232,0.002,4.1178116711891106e-06
+Some college,2001,median,'Table 4'!J35,151.97,151.969,0.001,5.110153319646998e-06
+Some college,2001,mean,'Table 4'!K35,501.36,501.36,0.0,2.864607829352005e-07
+Some college,2004,median,'Table 4'!L35,136.05,136.052,0.002,1.6970231532379547e-05
+Some college,2004,mean,'Table 4'!M35,519.89,519.893,0.003,6.155579606480935e-06
+Some college,2007,median,'Table 4'!N35,152.39,152.393,0.003,1.9248572740909576e-05
+Some college,2007,mean,'Table 4'!O35,565.34,565.344,0.004,7.177659679109129e-06
+Some college,2010,median,'Table 4'!P35,85.2,85.198,0.002,2.8573438967048853e-05
+Some college,2010,mean,'Table 4'!Q35,408.27,408.271,0.001,3.0027728853688423e-06
+Some college,2013,median,'Table 4'!R35,70.21,70.205,0.005,6.785925081885549e-05
+Some college,2013,mean,'Table 4'!S35,443.77,443.765,0.005,1.116683578030301e-05
+Some college,2016,median,'Table 4'!T35,89.14,89.139,0.001,9.991507740692145e-06
+Some college,2016,mean,'Table 4'!U35,459.04,459.042,0.002,5.4173984213891465e-06
+Some college,2019,median,'Table 4'!V35,113.26,113.261,0.001,1.2676673141378858e-05
+Some college,2019,mean,'Table 4'!W35,474.47,474.475,0.005,9.828470133208606e-06
+Some college,2022,median,'Table 4'!X35,149.97,149.975,0.005,3.1433753417273436e-05
+Some college,2022,mean,'Table 4'!Y35,591.92,591.919,0.001,1.144908513123153e-06
+Some college,2025,median,'Table 4'!Z35,181.5,181.5,0.0,0.0
+Some college,2025,mean,'Table 4'!AA35,661.35,661.35,0.0,4.2580037955829113e-07
+College degree,1989,median,'Table 4'!B36,321.02,321.024,0.004,1.3966949099785878e-05
+College degree,1989,mean,'Table 4'!C36,1035.44,1035.44,0.0,4.280201251948719e-07
+College degree,1992,median,'Table 4'!D36,249.2,249.2,0.0,1.330016051464449e-06
+College degree,1992,mean,'Table 4'!E36,840.54,840.537,0.003,3.6471890737397796e-06
+College degree,1995,median,'Table 4'!F36,256.16,256.162,0.002,6.733682073701015e-06
+College degree,1995,mean,'Table 4'!G36,934.59,934.589,0.001,9.335046135486644e-07
+College degree,1998,median,'Table 4'!H36,343.81,343.81,0.0,8.483464705045489e-07
+College degree,1998,mean,'Table 4'!I36,1225.73,1225.73,0.0,2.713730888527172e-08
+College degree,2001,median,'Table 4'!J36,444.66,444.659,0.001,2.6240048576741933e-06
+College degree,2001,mean,'Table 4'!K36,1664.05,1664.053,0.003,1.857805686275339e-06
+College degree,2004,median,'Table 4'!L36,463.6,463.596,0.004,8.984404659235525e-06
+College degree,2004,mean,'Table 4'!M36,1661.95,1661.95,0.0,9.23118401030081e-08
+College degree,2007,median,'Table 4'!N36,507.72,507.715,0.005,8.991333806074837e-06
+College degree,2007,mean,'Table 4'!O36,1967.25,1967.253,0.003,1.6798290755286662e-06
+College degree,2010,median,'Table 4'!P36,370.58,370.58,0.0,1.3054401207831087e-06
+College degree,2010,mean,'Table 4'!Q36,1667.76,1667.758,0.002,1.3812351834539595e-06
+College degree,2013,median,'Table 4'!R36,385.85,385.85,0.0,5.276921084053917e-07
+College degree,2013,mean,'Table 4'!S36,1620.68,1620.681,0.001,6.490215615909778e-07
+College degree,2016,median,'Table 4'!T36,394.28,394.283,0.003,6.683803388600656e-06
+College degree,2016,mean,'Table 4'!U36,2030.28,2030.278,0.002,1.2019503293524201e-06
+College degree,2019,median,'Table 4'!V36,391.75,391.747,0.003,8.82437779206887e-06
+College degree,2019,mean,'Table 4'!W36,1924.33,1924.329,0.001,4.2591285755918624e-07
+College degree,2022,median,'Table 4'!X36,508.23,508.229,0.001,1.2949648781877988e-06
+College degree,2022,mean,'Table 4'!Y36,2180.99,2180.992,0.002,7.555242641224788e-07
+College degree,2025,median,'Table 4'!Z36,505.03,505.03,0.0,0.0
+College degree,2025,mean,'Table 4'!AA36,2240.46,2240.464,0.004,1.9250816203290624e-06

@@ -1,0 +1,17 @@
+# Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Downloaded source files: get_data.py re-creates them; the manifest records them
+data/raw/*
+!data/raw/manifest.csv
+*.part
+
+# Local and private files
+.DS_Store
+.env
+*.key
+*.pem
+.ipynb_checkpoints/
