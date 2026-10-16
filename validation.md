@@ -245,3 +245,13 @@ Both figures were opened and inspected. The checks covered:
 - The caption, note and source match the code's definitions.
 - The README was rendered with GitHub's Markdown API before committing, and its image
   links point to files at the repository root.
+
+**After publication** (16 October 2026), these checks were run against the public
+repository, <https://github.com/faisalm7/ps158-reproduce>:
+
+- The README renders on GitHub with both figures shown inline. The image URLs return the
+  same bytes as the committed PNG files.
+- A fresh `git clone` of the public repository, with its outputs deleted, ran every README
+  command successfully.
+- The clone recreated byte-identical figures and processed CSVs. Its raw-file hashes matched
+  the manifest; only the retrieval times changed.
